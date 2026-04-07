@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -34,4 +35,13 @@ nav a {
 
 nav a:hover {
     color: #facc15;
+}
+
+section {
+    color: #ffffff;
+    height: 100vh;
+    padding: 100px 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
