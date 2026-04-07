@@ -1,7 +1,7 @@
 /* styles/main.css */
 
 body {
-    background-color: #121212;
+    background: radial-gradient(circle at 20% 30%, #2e2e2e, #121212);
     color: #ffffff;
     display: grid;
     place-items: center;
